@@ -19,11 +19,12 @@ header {
 
 input {
     text-align: center;
+    font-size: large;
     /* border: 10rem; */
 }
 
 section {
-    height: 55px;
+    height: 75px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -40,6 +41,7 @@ button {
     padding-right: 0.5rem;
     padding-left: 0.5rem;
     cursor: pointer;
+    font-size: large;
 }
 
 h1 {
